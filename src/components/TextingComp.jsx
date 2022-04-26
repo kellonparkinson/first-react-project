@@ -4,6 +4,7 @@ import'./textingComp.css'
 function TextingComp() {
   return (
     <div>TextingComp</div>
+    //test comment
   )
 }
 
