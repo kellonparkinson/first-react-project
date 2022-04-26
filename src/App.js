@@ -1,9 +1,14 @@
-import './App.css';
+import "./App.css";
+
+// imports for pages
+import Navbar from "./components/Navbar";
+import TextingComp from "./components/TextingComp";
 
 function App() {
   return (
     <div className="App">
-      <h1>Test</h1>
+      <Navbar />
+      <TextingComp />
     </div>
   );
 }
